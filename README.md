@@ -9,8 +9,11 @@ O objetivo do projeto era treinar os conceitos de criptografia simétrica e assi
 
 ## Autores
 
+### Github
 - [@hiproenca](https://github.com/hiproenca)
 
+### LinkedIn
+- [Higor Proença](https://www.linkedin.com/in/higor-proen%C3%A7a/)
 
 ## Requisitos de configuração
 
